@@ -1,6 +1,6 @@
 # Tableau Dashboard Project
 
-Welcome to the Tableau Dashboard project, where I leverage Tableau to create an interactive dashboard providing key insights into sales and profit trends. The project encompasses the analysis of user requirements, creation of mockups, data model building, and the implementation of various charts for an enriched visualization experience.
+Welcome to the Tableau Dashboard project, where I leverage Tableau to create an interactive dashboard providing key insights into sales and profit trends from a sales dataset. The project encompasses the analysis of user requirements, creation of mockups, data model building, and the implementation of various charts for an enriched visualization experience.
 
 ## Project Overview
 
